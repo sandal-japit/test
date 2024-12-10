@@ -1,1 +1,1 @@
-cd /path/to/directory
+# cd /path/to/directory

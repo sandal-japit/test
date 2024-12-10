@@ -13,7 +13,6 @@ atau
 ```html
 su
 ```
-```html
 # Khusus Untuk OS
 * • Debian 10 & 9
 atau

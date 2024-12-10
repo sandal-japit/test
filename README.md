@@ -1,1 +1,1 @@
-# test
+cd /path/to/directory

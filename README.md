@@ -14,5 +14,15 @@ atau
 su
 ```
 ```html
-ls
+# Khusus Untuk OS
+* • Debian 10 & 9
+atau
+* • Ubuntu 18.04 & 20.04
+* Working For VPS AWS,AZURE,DO
+## Installation 
+## 1.
+<img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
+
+  ```html
+apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 ```

@@ -2,7 +2,7 @@
 
 Deskripsi singkat tentang proyek ini. Jelaskan secara ringkas apa tujuan dari proyek ini dan apa yang ingin dicapai.
 
-![logo](https://link-ke-logo.png)
+![logo](https://play-lh.googleusercontent.com/Fro4e_osoDhhrjgiZ_Y2C5FNXBMWvrb4rGpmkM1PDAcUPXeiAlPCq7NeaT4Q6NRUxRqo)
 
 ## Fitur Utama
 
